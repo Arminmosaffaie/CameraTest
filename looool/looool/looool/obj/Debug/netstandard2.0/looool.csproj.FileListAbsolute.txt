@@ -1,0 +1,9 @@
+c:\users\armin\source\repos\looool\looool\looool\bin\Debug\netstandard2.0\looool.deps.json
+c:\users\armin\source\repos\looool\looool\looool\bin\Debug\netstandard2.0\looool.dll
+c:\users\armin\source\repos\looool\looool\looool\bin\Debug\netstandard2.0\looool.pdb
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.csprojAssemblyReference.cache
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.csproj.CoreCompileInputs.cache
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.AssemblyInfoInputs.cache
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.AssemblyInfo.cs
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.dll
+c:\users\armin\source\repos\looool\looool\looool\obj\Debug\netstandard2.0\looool.pdb

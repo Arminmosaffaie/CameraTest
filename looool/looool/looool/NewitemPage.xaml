@@ -1,0 +1,29 @@
+﻿
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="looool.NewitemPage"
+             
+             Title="New">
+
+  
+    
+    <StackLayout>
+        
+        
+        <Button BackgroundColor="Red" Text="Take photo" x:Name="Takephoto">
+
+        </Button>
+
+        <Button BackgroundColor="Red" Text="browse" x:Name="Browsephoto">
+
+        </Button>
+
+        <Image x:Name="MainImage">
+
+
+        </Image>
+
+    </StackLayout>
+
+</ContentPage>
